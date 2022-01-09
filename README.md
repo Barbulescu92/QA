@@ -1,4 +1,4 @@
-# TestCases
+# Test Cases
 
 Below are some Test Case sample that I wrote while working on previous project.
 
