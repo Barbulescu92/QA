@@ -8,7 +8,7 @@ Below are some Test Case sample that I wrote while working on previous project.
 Check if login works when a person usera correct user/pass.
 
 **Steps to Reproduce:**
-1. Go to www.website.com/login
+1. Go to www.website.com/sign-in/
 2. Add a correct user/pass
 3. Press login button
 
